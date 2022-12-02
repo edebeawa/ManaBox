@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SGS",
+    "GPG",
+    "SGS"
+  ],
+  "key": {
+    "P": {
+      "item": "botania:life_essence"
+    },
+    "G": {
+      "item": "botania:mana_glass"
+    },
+    "S": {
+      "tag": "botania:livingrock"
+    }
+  },
+  "result": {
+    "item": "mana_box:mana_box"
+  }
+}

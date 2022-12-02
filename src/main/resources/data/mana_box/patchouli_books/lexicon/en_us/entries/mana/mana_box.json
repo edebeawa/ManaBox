@@ -1,0 +1,17 @@
+{
+  "name": "mana_box.entry.manaBox",
+  "category": "botania:mana",
+  "icon": "mana_box:mana_box",
+  "advancement": "botania:main/elf_lexicon_pickup",
+  "pages": [
+    {
+      "type": "text",
+      "text": "mana_box.page.manaBox0"
+    },
+    {
+      "type": "crafting",
+      "text": "mana_box.page.manaBox1",
+      "recipe": "mana_box:mana_box"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "block.mana_box.mana_box": "魔力盒",
+
+  "mana_box.entry.manaBox": "魔力盒",
+  "mana_box.page.manaBox0": "$(item)魔力盒$(0)是一个便携的魔力容器，它有着十倍于$(item)魔力池$(0)的魔力储量，破坏后也能保存其中的魔力。同时，它可以像$(item)魔力石板$(0)那样让其他物品从中抽取魔力。<br>它可以使用与$(item)魔力池$(0)相同的方法染色。",
+  "mana_box.page.manaBox1": "打包带走"
+}

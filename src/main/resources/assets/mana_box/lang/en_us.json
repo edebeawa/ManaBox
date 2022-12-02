@@ -1,0 +1,7 @@
+{
+  "block.mana_box.mana_box": "Mana Box",
+
+  "mana_box.entry.manaBox": "Mana Box",
+  "mana_box.page.manaBox0": "The $(item)Mana Box$(0) is a portable Mana container with ten times the Mana reserve of $(item)Mana Pool$(0), It also preserves its Mana after destruction. At the same time, it can let other items draw Mana from it like $(item)Mana Tablet$(0).<br>It can be stained using the same method as $(item)Mana Pool$(0).",
+  "mana_box.page.manaBox1": "Pack and take away"
+}
